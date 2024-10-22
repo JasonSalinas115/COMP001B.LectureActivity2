@@ -8,6 +8,7 @@ h1 {
 p {
     background-color: cornflowerblue;
     border: 1em double black;
+    padding: 1em;
 }
 
 .para-size {
